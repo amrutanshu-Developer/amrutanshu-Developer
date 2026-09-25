@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Amrutanshu
+<table>
+<tr>
+<td>
+<h1>Hi, I'm Amrutanshu Panda 👋</h1>
+</td>
+
+<td align="right">
+<a href="https://amrutanshu.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
+</a>
+</td>
+</tr>
+</table>
 
 ### Senior Software Developer | Backend • Web • Mobile • Cloud • AI
 
